@@ -3,4 +3,4 @@
 require_relative '../lib/move.rb'
 
 puts "Hello, Welcome to Tic Tac Toe!"
-puts "Would you like to play? Y/n"
+puts "Please please a position 1-9."
