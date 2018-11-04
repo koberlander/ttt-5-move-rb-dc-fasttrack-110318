@@ -7,8 +7,9 @@ def display_board(board)
 end
 
 
-def input_to_index() 
+def input_to_index(answer_to_yn) 
 ask for number [1,2,3,4,5,6,7,8,9]
+check number is " "
 convert to array index 
 end
 
