@@ -13,8 +13,11 @@ check number is " "
 convert to array index 
 end
 
+# call the method? input_to_index(answer_to_yn)
 
 def move
 fill position with X or O 
 puts updated board 
 end
+
+# call the  method
